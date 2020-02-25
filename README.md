@@ -1,13 +1,8 @@
-**MonoDevelop** is a full-featured integrated development environment (IDE) for mono using Gtk#.
+**LISIDE** is a full-featured integrated development environment (IDE) for mono using Gtk#.
 
-The MonoDevelop core is also the foundation for Visual Studio for Mac.
-Feel free to file bugs against Visual Studio for Mac here as well.
-
-See http://www.monodevelop.com for more info.
-
-[![Build Status](http://jenkins.mono-project.com/job/test-monodevelop-mainline/badge/icon)](http://jenkins.mono-project.com/job/test-monodevelop-mainline/)
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mono/monodevelop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+LISIDE is a fork of MonoDevelop 7.8.3.2. Microsoft has dropped any interest in further developing MonoDevelop for Linux or Windows,
+and versions from the 8.x series do not compile due to different text editor and various knowingly incompatible changes over
+almost 7 thousand commits. Forking one of the last versions before 8.x seemed like the best thing to do in this situation.
 
 Directory organization
 ----------------------
